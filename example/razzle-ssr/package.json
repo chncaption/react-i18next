@@ -27,6 +27,6 @@
     "react-router-dom": "5.2.0",
     "serve": "11.3.2",
     "webpack": "5.31.2",
-    "webpack-dev-server": "3.11.2"
+    "webpack-dev-server": "4.9.0"
   }
 }
