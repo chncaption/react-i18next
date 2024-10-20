@@ -25,7 +25,7 @@
     "react-dom": "17.0.2",
     "react-i18next": "11.11.3",
     "react-router-dom": "5.2.0",
-    "serve": "11.3.2",
+    "serve": "14.2.4",
     "webpack": "5.31.2",
     "webpack-dev-server": "3.11.2"
   }
