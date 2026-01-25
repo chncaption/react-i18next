@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "@just-boris/preact-scripts": "1.0.7",
+    "@just-boris/preact-scripts": "1.0.17",
     "i18next": "8.4.3",
     "i18next-browser-languagedetector": "2.0.0",
     "i18next-http-backend": "1.0.15",
